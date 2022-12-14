@@ -1,0 +1,12 @@
+C:\Users\Iuri\source\repos\ProjetoSemaforos\bin\Debug\ProjetoSemaforos.exe.config
+C:\Users\Iuri\source\repos\ProjetoSemaforos\bin\Debug\ProjetoSemaforos.exe
+C:\Users\Iuri\source\repos\ProjetoSemaforos\bin\Debug\ProjetoSemaforos.pdb
+C:\Users\Iuri\source\repos\ProjetoSemaforos\obj\Debug\ProjetoSemaforos.csproj.AssemblyReference.cache
+C:\Users\Iuri\source\repos\ProjetoSemaforos\obj\Debug\ProjetoSemaforos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Iuri\source\repos\ProjetoSemaforos\obj\Debug\ProjetoSemaforos.Interface.resources
+C:\Users\Iuri\source\repos\ProjetoSemaforos\obj\Debug\ProjetoSemaforos.Properties.Resources.resources
+C:\Users\Iuri\source\repos\ProjetoSemaforos\obj\Debug\ProjetoSemaforos.csproj.GenerateResource.cache
+C:\Users\Iuri\source\repos\ProjetoSemaforos\obj\Debug\ProjetoSemaforos.csproj.CoreCompileInputs.cache
+C:\Users\Iuri\source\repos\ProjetoSemaforos\obj\Debug\ProjetoSemaforos.exe
+C:\Users\Iuri\source\repos\ProjetoSemaforos\obj\Debug\ProjetoSemaforos.pdb
+C:\Users\Iuri\source\repos\ProjetoSemaforos\obj\Debug\ProjetoSemaforos.ListaDeVoltas.resources
